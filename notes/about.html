@@ -31,19 +31,26 @@
    <p style="color: rgb(3, 44, 71);">Hey, I am Tushar Singla, currently studying at NIT Jalandhar. I am pursuing B.tech in Electrical Engineering. I am doing this project to collect my notes and study material at a single place. This will be very helpful for students like me.</p>
 
 
-    <!-- <script>
-        // document.getElementById("titlebar1").style.display="none";
-        document.getElementById("titlebar2").style.display="none";
-        document.getElementById("titlebar3").style.display="none";
-        document.getElementById("titlebar4").style.display="none";
-        function titlebox(clicked){
-            document.getElementById("titlebar2").style.display="inherit";
-            document.getElementById("titlebar3").style.display="inherit";
-            document.getElementById("titlebar4").style.display="inherit";
-
+      <script>
+        if (screen.width > 750) {
+            var head = document.getElementsByTagName('HEAD')[0];
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = 'main.css';
+            head.appendChild(link);
         }
-        
-    </script> -->
+        else{
+            var head = document.getElementsByTagName('HEAD')[0];
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = 'main2.css';
+            head.appendChild(link);
+        }
+
+
+    </script>
 
 </body>
 </html>
