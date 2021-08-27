@@ -18,12 +18,12 @@ h1{
     float:left;
     
 }
-a{
+.navigation{
     color: white;
     text-decoration: none;
     padding: 0.5%;
 }
-a:hover{
+.navigation:hover{
      color: rgb(255, 0, 0);
      
      background-color: rgb(95, 95, 95);
