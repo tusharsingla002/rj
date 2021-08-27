@@ -19,13 +19,13 @@ h1{
     
 }
 a{
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 0.5%;
 }
 a:hover{
      color: rgb(255, 0, 0);
-     zoom: 1.02;
+     
      background-color: rgb(95, 95, 95);
 }
 .icon1{
