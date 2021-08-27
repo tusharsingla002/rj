@@ -5,14 +5,14 @@
     padding-inline: 50px;
     display: table;
     text-align: center;
-    min-inline-size: 15%;
+    min-inline-size: 25%;
     padding-top: 1.5%;
     text-align: left;
     display: -moz-inline-box;
     
 
 }
-ul{float: left;min-width: 35%;}
+ul{float: left;min-width: 45%;}
 h1{
     color: #032c47;
     float:left;
