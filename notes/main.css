@@ -47,3 +47,21 @@ a:hover{
     position: relative;
     margin-top: 55px;
 }
+
+.classlinks{
+    display: block;
+    border: 2px solid black;
+    min-width: 48%;
+    float: left;
+    margin-right: 2%;
+    /* margin-inline-end: 50%; */
+}
+.books
+{
+    display: block;
+    border: 2px solid black;
+    min-width: 48%;
+    float: left;
+    /* margin-inline-start: 40%; */
+
+}
