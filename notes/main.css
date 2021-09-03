@@ -51,7 +51,7 @@ a:hover{
 .classlinks{
     display: block;
     border: 2px solid black;
-    min-width: 48%;
+    min-width: 45%;
     float: left;
     margin-right: 2%;
     /* margin-inline-end: 50%; */
@@ -60,7 +60,7 @@ a:hover{
 {
     display: block;
     border: 2px solid black;
-    min-width: 48%;
+    min-width: 45%;
     float: left;
     /* margin-inline-start: 40%; */
 
